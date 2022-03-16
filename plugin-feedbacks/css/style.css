@@ -239,6 +239,10 @@
     display:block;
     padding: 0;
   }
+
+  .result_comment {
+    width: 100%; 
+  }
   .child_replay{
     margin-top: 12px;
     list-style: none;
@@ -269,8 +273,6 @@
   .box_result .result_comment .tools_comment span{
     color: #828282;
   }
-
-
 
   
   .body_comment .show_more{
